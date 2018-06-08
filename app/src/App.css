@@ -1,0 +1,38 @@
+.App-title {
+  font-size: 5em;
+  text-align: center;
+  font-family: fantasy;
+  font-style: Jazz LET;
+  padding: 20px;
+  color: black;
+}
+
+.App-intro {
+  font-size: 2em;
+  text-align: center;
+  font-family: fantasy;
+  font-style: Jazz LET;
+  padding: 20px;
+}
+
+.App-next{
+font-size: 1em;
+text-align: center;
+font-family: fantasy;
+font-style: Jazz LET;
+}
+
+.App-logo {
+  height: 180px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: rgb(109, 12, 12);
+  height: 50px;
+  padding: 40px;
+  color: rgb(255, 255, 255);
+}
